@@ -90,7 +90,7 @@ manager.addProduct({
     code: "P004", 
     // stock: 832, <---- key faltante
 });
-//creando otro nuevo producto con código nuevo n°3
+//creando otro nuevo producto con código nuevo n°5
 manager.addProduct({
     title: "Leche",
     description: "Descripción del Producto 5",
